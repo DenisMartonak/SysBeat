@@ -6,6 +6,13 @@ The project is engineered with high-concurrency database optimizations and respo
 
 ---
 
+## 🖥️ Live Showcase
+
+### System Dashboard Overview
+*Real-time glassmorphic dashboard showcasing live hardware and network stability telemetry across concurrent nodes:*
+![SysBeat Dashboard Overview](screenshots/dashboard_overview.png)
+---
+
 ## 🚀 Key Features
 
 *   **Real-time Glassmorphic Dashboard**: A dark-theme UI featuring glowing radial SVG gauges, continuous incident warning logs, and interactive range-bound performance timelines.
